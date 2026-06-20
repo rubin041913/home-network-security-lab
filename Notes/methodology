@@ -1,1 +1,25 @@
+# Methodology
+
+## Approach
+
+The lab was designed to simulate a real-world attacker workflow:
+
+1. Reconnaissance (Nmap scanning)
+2. Enumeration (identifying active hosts)
+3. Traffic Analysis (Wireshark)
+4. Exploitation (WiFi handshake capture)
+5. Post-Exploitation (password cracking)
+
+## Key Learning Areas
+
+* Understanding network protocols (ARP, ICMP)
+* Observing how scanning tools generate traffic
+* Identifying weaknesses in wireless security
+* Applying offensive security techniques in a safe environment
+
+## Future Improvements
+
+* Add vulnerability scanning (Nessus/OpenVAS)
+* Expand to Active Directory attack lab
+* Implement defensive monitoring (SIEM tools)
 
